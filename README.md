@@ -6,5 +6,7 @@
 
 
 # Screens
+## Add data using markdown syntax
 ![Markdown Syntax](screens/screen1.png)
+## Formatted output
 ![Output Syntax](screens/screen2.png)
