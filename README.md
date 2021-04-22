@@ -6,5 +6,5 @@
 
 
 # Screens
-![Screen1](screens/screen1.png)
-![Screen2](screens/screen2.png)
+![Markdown Syntax](screens/screen1.png)
+![Output Syntax](screens/screen2.png)
